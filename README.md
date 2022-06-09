@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Penetration Test,Digital Forensic and reverse Enginnering
 - 🌱 I’m currently learning Bachelor of science In Computer Engineering(BSC-CE)
 - 💞️ I’m looking to collaborate on any of Cybersecurity Field i meantion above
-- 📫 How to reach me Twitter, Instagram and linkedin as @szdiof
+- 📫 Reach me on Twitter, Instagram and linkedin as @szdiof
 
 <!---
 suleshy/suleshy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
